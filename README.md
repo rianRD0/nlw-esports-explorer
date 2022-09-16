@@ -6,7 +6,7 @@
 
 Projeto contruído no evento Next Level Week da Rocketseat
 
-[🔗Clique aqui para acessar](https://rianRDO.github.io/nlw-esports-explorer)
+[🔗Clique aqui para acessar](https://rianRD0.github.io/nlw-esports-explorer)
 
 ##  Tecnologias 🚀
 
